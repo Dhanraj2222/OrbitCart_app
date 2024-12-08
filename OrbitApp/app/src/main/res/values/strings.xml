@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OrbitApp</string>
+    <string name="product_image_desc">Product Image</string>
+    <string name="minus_button_desc">Decrease Quantity</string>
+    <string name="plus_button_desc">Increase Quantity</string>
+
+</resources>
